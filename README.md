@@ -25,7 +25,7 @@ World:
 
 # Mathematical Operation Strings
 "x" "Multiply"
-"-" "Divide"
+"/" "Divide"
 "+" "Plus"
 "-" "Minus"
 
