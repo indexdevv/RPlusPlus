@@ -1,13 +1,26 @@
 # RPlusPlus
 Custom made programming language inside Roblox Studio using roblox's core features to assemble an programming language inside roblox.
 
+# Instructions
+1. Download the "Language.rbxl" file from the repository
+2. Open it
+3. Go to StarterGUI
+4. Open the GUI named "Console"
+5. Open the Script named "Main" and start editing!
+
 # Services
+
 World - Contains everything
+
 World:
   -- WorldScriptService
+  
   -- WorldInstanceService
+  
   -- WorldConsoleService
+  
   -- WorldUIService
+  
 
 # Mathematical Operation Strings
 "x" "Multiply"
