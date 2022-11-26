@@ -10,28 +10,44 @@ World:
   -- WorldUIService
 
 # Mathematical Operation Strings
-x = "Multiply"
-/ = "Divide"
-+ = "Plus"
-- = "Minus"
+"x" "Multiply"
+"-" "Divide"
+"+" "Plus"
+"-" "Minus"
 
 # Functions
 RMODULE.WriteString("String")
+
 RMODULE.WriteError("String")
+
 RMODULE.WriteWarning("String")
+
 RMODULE.CreatePart(Size_Vector3,Position_Vector3,Brickcolor,AnchoredBool,CanCollideBool,"NameString")
+
 RMODULE.InsertPreset("Name")
+
 RMODULE.CreatePartsFromTable(Table)
+
 RMODULE.RequireLibrary("LibraryName")
+
 RMODULE.CreateWindow(SizeUDIM2,PositionUDIM2,ColorBRICK,Name)
+
 RMODULE.Demolish(Directory,Service)
+
 RMODULE.WriteEnter(Content,PlaceholderTextOption,ClearTextOnFocusOption)
+
 RMODULE.WriteCalculate(Num1,Operation,Num2)
+
 RMODULE.SetVector3(Name,Type,Vector3Value)
+
 RMODULE.SetProperty(Name,Type,Value)
+
 RMODULE.SetUDim2(Name,Type,UDim2Value)
+
 RMODULE.LaunchUser()
+
 RMODULE.Shutdown()
+
 
 # Main Script In The RBXL File
 ```lua
